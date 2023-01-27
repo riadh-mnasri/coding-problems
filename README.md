@@ -1,3 +1,3 @@
-# Functional Programming with Kotlin and ArrowKT
+# Kotlin coding problems
 
 
